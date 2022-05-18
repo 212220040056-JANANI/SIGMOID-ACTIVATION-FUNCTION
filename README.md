@@ -1,4 +1,6 @@
-# SIGMOID-ACTIVATION-FUNCTION
+### EX NO: 05
+### DATE: 
+# <p align= "center">SIGMOID ACTIVATION FUNCTION</p>
 ## Aim:
   To develop a python code that creates a simple feed-forward neural networks or perception with the Sigmoid activation function. The neuron has to be trained such that it can predict the correct output value when provided with a new set of input data.
   
@@ -105,7 +107,8 @@ class NeuralNetwork():
 ```
 
 ## Output:
-![image](https://user-images.githubusercontent.com/86832944/168533061-9ec93c46-7c5a-4234-a84b-31d1aa32a28d.png)
+![image](https://user-images.githubusercontent.com/86832944/169003000-171e2cc2-b5e4-4feb-bb8d-a3dfb5efe02d.png)
+
 
 
 

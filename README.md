@@ -13,8 +13,8 @@
 ## Related Theoritical Concept:
 Sigmoid activation function:
 
- σ(x) = 1/1 + e−κx 
- 
+σ(x) = 1/1 + e−κx 
+
 The main reason why we use sigmoid function is because it exists between (0 to 1). Therefore, it is especially used for models where we have to predict the probability as an output.Since probability of anything exists only between the range of 0 and 1, sigmoid is the right choice.The function is differentiable.That means, we can find the slope of the sigmoid curve at any two points.The function is monotonic but function’s derivative is not.The logistic sigmoid function can cause a neural network to get stuck at the training time. Sigmoid Function acts as an activation function in machine learning which is used to add non-linearity in a machine learning model, in simple words it decides which value to pass as output and what not to pass
 
 ## Algorithm
@@ -108,8 +108,6 @@ class NeuralNetwork():
 
 ## Output:
 ![image](https://user-images.githubusercontent.com/86832944/169003000-171e2cc2-b5e4-4feb-bb8d-a3dfb5efe02d.png)
-
-
 
 
 ## Result:

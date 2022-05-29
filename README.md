@@ -105,6 +105,12 @@ class NeuralNetwork():
         print(neural_network.think(np.array([user_input_one, user_input_two, user_input_three])))
         print("Wow, we did it!")
 ```
+<br>
+<br>
+<br>
+<br>
+<br>
+
 
 ## OUTPUT:
 ![image](https://user-images.githubusercontent.com/86832944/169003000-171e2cc2-b5e4-4feb-bb8d-a3dfb5efe02d.png)

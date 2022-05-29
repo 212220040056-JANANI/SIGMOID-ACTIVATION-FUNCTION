@@ -117,9 +117,6 @@ class NeuralNetwork():
 <br>
 <br>
 <br>
-<br>
-<br>
-
 
 
 

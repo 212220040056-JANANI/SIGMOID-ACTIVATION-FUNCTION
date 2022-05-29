@@ -1,23 +1,23 @@
 ### EX NO: 05
-### DATE: 
+### DATE: 18/04/2022
 # <p align= "center">SIGMOID ACTIVATION FUNCTION</p>
-## Aim:
+## AIM:
   To develop a python code that creates a simple feed-forward neural networks or perception with the Sigmoid activation function. The neuron has to be trained such that it can predict the correct output value when provided with a new set of input data.
   
  ![image](https://user-images.githubusercontent.com/93023609/162692440-f59e7ad2-0414-4ddb-8640-fede7a0655f2.png)
 
-## Equipments Required:
+## EQUIPMENTS REQUIRED:
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner / Google Colab
 
-## Related Theoritical Concept:
+## RELATED THEORETICAL CONCEPT:
 Sigmoid activation function:
 
 σ(x) = 1/1 + e−κx 
 
 The main reason why we use sigmoid function is because it exists between (0 to 1). Therefore, it is especially used for models where we have to predict the probability as an output.Since probability of anything exists only between the range of 0 and 1, sigmoid is the right choice.The function is differentiable.That means, we can find the slope of the sigmoid curve at any two points.The function is monotonic but function’s derivative is not.The logistic sigmoid function can cause a neural network to get stuck at the training time. Sigmoid Function acts as an activation function in machine learning which is used to add non-linearity in a machine learning model, in simple words it decides which value to pass as output and what not to pass
 
-## Algorithm
+## ALGORITHM:
 1. Import the required modules for the sigmoid function.
 2. Create a class and define the functions  
 3. Give the derivatie function for training the existing neuron to create a feed forward network.
@@ -25,7 +25,7 @@ The main reason why we use sigmoid function is because it exists between (0 to 1
 5. Give the  set of inputs for new neuron so as to get the output.
 
 
-## Program:
+## PROGRAM:
 ```
 /*
 Program to implement the sigmoid activation function in a feed forward ANN.
@@ -106,9 +106,9 @@ class NeuralNetwork():
         print("Wow, we did it!")
 ```
 
-## Output:
+## OUTPUT:
 ![image](https://user-images.githubusercontent.com/86832944/169003000-171e2cc2-b5e4-4feb-bb8d-a3dfb5efe02d.png)
 
 
-## Result:
+## RESULT:
   Thus created a perception to employ the Sigmoid activation function. This neuron was successfully trained to predict the correct output value, when provided with a new set of input data.
